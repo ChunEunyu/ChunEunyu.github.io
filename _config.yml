@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunyu Blog"
+title                    : "은유 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunyu"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eunyu"
+  name             : "은유"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "소프트웨어학과 **2학년** 학생입니다."
   location         : "Korea"
-  email            :
+  email            : "eunyuqian@dankook.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
