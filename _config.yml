@@ -104,10 +104,10 @@ analytics:
 author:
   name             : "은유"
   avatar           : "/images/pp2-1.jfif"
-  bio              : "소프트웨어학과 2학년"
+  bio              : "소프트웨어학과 3학년"
   location         : "Korea"
   email            : "eunyuqian@dankook.ac.kr"
-  links:
+  links: "https://github.com/ChunEunyu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -130,15 +130,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - # label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/ChunEunyu" 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
