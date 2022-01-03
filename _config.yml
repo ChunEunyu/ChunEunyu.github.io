@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Eunyu Log"
-title_separator          : "-"
+title_separator          : "ゥニュの ブログ"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunyu"
 description              : "ゥニュの ブログ"
