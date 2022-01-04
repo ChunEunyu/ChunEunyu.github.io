@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "mint", "default", "air", "aqua", "contra
 locale                   : "en-US"
 title                    : "Eunyu Log"
 title_separator          : "-"
-subtitle                 : "ゥニュの ブログ" # site tagline that appears below site title in masthead
+subtitle                 : "ウニュの ブログ" # site tagline that appears below site title in masthead
 name                     : "Eunyu"
-description              : # "ゥニュの ブログ"
+description              : # ""
 url                      : "https://github.com/ChunEunyu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ChunEunyu/ChunEunyu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
